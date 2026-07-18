@@ -3,7 +3,7 @@
 }
 .contacto{
     background:#FFF2E8;
-    padding:91px 60px;
+    padding:60px 5%;
 }
 
 .contacto h2{
@@ -23,7 +23,8 @@
 }
 
 .info{
-    width:350px;
+    width:100%;
+    max-width: 350px;
     background:#FFBE96;
     padding:30px;
     border-radius:15px;
@@ -36,7 +37,8 @@
 }
 
 .formulario{
-    width:450px;
+    width:100%;
+    max-width:450px;
     background:#FFBE96;
     padding:30px;
     border-radius:15px;
