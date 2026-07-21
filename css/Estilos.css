@@ -57,7 +57,6 @@ span{
     align-items: center;
     background-color: #FFBE96;
 }
-
 section{
     background-color: #FFE4D1;
 }
@@ -68,19 +67,16 @@ section{
     padding: 186px 0;
     background-color: #FFE4D1;
 }
-
 .texto{
     width: 45%;
     background-color: #FFE4D1;
 }
-
 .texto h1{
     font-size: 50px;
     color: #8B4513;
     margin-bottom:20px;
     background-color:#FFE4D1;
 }
-
 .texto p{
     font-size:22px;
     line-height:35px;
@@ -88,11 +84,9 @@ section{
     background-color:#FFE4D1;
     margin-bottom:30px;
 }
-
 .imagen{
     background-color:#FFE4D1;
 }
-
 .imagen img{
     width:450px;
     border-radius:20px;
@@ -103,14 +97,12 @@ section{
     padding:45px 0;
     background-color:#E8BE89;
 }
-
 .productos h2{
     font-size:40px;
     color:#8B4513;
     margin-bottom:50px;
     background-color:#E8BE89;
 }
-
 .postres{
     display:flex;
     justify-content:center;
@@ -120,7 +112,6 @@ section{
     flex-wrap:wrap;
     background-color:#E8BE89;
 }
-
 .postre{
     width:240px;
     background:#FFBE96;
@@ -128,19 +119,16 @@ section{
     box-shadow:0 5px 15px rgba(0,0,0,.15);
     padding:20px;
 }
-
 .postre img{
     width:100%;
     height:180px;
     border-radius:15px;
 }
-
 .postre h3{
     margin-top:15px;
     color:#8B4513;
     background-color:#FFBE96;
 }
-
 .postre p{
     color:#ff6600;
     font-weight:bold;
@@ -181,12 +169,10 @@ section{
     color: #8B4513;
     margin-bottom: 15px;
 }
-
 .promo p{
     background-color: #FFBE96;
     color: #444;
 }
-
 .subtitulo-promo{
     background-color: #FFF2E8;
     color: #666;
